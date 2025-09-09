@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/Natho23"><img src="[https://github.com/Natho23.pngg](https://avatars.githubusercontent.com/u/231270663?v=4)" width="250" height="250" alt="Natho"/></a>
+ <a href="https://github.com/Natho23"><img src="https://avatars.githubusercontent.com/u/231270663?v=4" width="250" height="250" alt="Natho"/></a>
 
    
