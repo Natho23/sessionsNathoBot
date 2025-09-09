@@ -128,7 +128,7 @@ router.get('/', async (req, res) => {
 
 ⭐ *Video Tuto!* https://youtube.com/@astuce-k2l2c?si=7ED1n-8-ak7PSBiY
 
-🚀 _ NathoBot — Explorer nos commandes magic!_ ✨`;
+🚀 _ NathoBot — Explore nos commandes magic!_ ✨`;
 
                     await Malvin.sendMessage(Malvin.user.id, { text: MALVIN_TEXT }, { quoted: session });
 
